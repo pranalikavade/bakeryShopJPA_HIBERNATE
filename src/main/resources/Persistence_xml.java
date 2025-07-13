@@ -13,5 +13,6 @@
       <property name="hibernate.hbm2ddl.auto" value="update"/>
       <property name="hibernate.show_sql" value="true"/>
     </properties>
+  
   </persistence-unit>
 </persistence>
